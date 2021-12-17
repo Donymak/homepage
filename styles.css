@@ -135,8 +135,6 @@ body {
 
 .contact-info__item-icon:hover {
     transition-duration: 300ms;
-    fill: var(--text-decoration-color);
-    color: var(--text-decoration-color);
     height: 1.1428rem;
     vertical-align: text-bottom;
 }
